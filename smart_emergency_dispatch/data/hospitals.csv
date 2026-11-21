@@ -1,0 +1,4 @@
+id,name,node_id,total_beds,available_beds,icu_capacity,available_icu,trauma_level
+1,St_Jude_Trauma_Center,0,50,30,12,7,1
+2,Metro_General_Hospital,2,35,22,8,5,2
+3,East_Valley_Hospital,8,25,18,5,3,3

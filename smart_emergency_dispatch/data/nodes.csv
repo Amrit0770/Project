@@ -1,0 +1,10 @@
+id,name,lat,lon,is_hospital,is_station
+0,St_Jude_Trauma_Center,12.9716,77.5946,1,0
+1,Central_Avenue,12.9716,77.6096,0,0
+2,Metro_General_Hospital,12.9716,77.6246,1,0
+3,City_Square_East,12.9866,77.5946,0,0
+4,EMS_Headquarters_Station,12.9866,77.6096,0,1
+5,Harbor_Drive,12.9866,77.6246,0,0
+6,West_Side_Junction,13.0016,77.5946,0,0
+7,Highway_Exit_9,13.0016,77.6096,0,0
+8,East_Valley_Hospital,13.0016,77.6246,1,0

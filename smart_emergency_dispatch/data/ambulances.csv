@@ -1,0 +1,7 @@
+id,callsign,type,base_node_id,max_payload_kg
+1,MEDIC-1,ALS,4,80
+2,MEDIC-2,ALS,4,80
+3,MEDIC-3,ALS,4,80
+4,AMB-4,BLS,4,50
+5,AMB-5,BLS,4,50
+6,AMB-6,BLS,4,50

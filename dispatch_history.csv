@@ -1,0 +1,6 @@
+IncidentId,AmbulanceId,HospitalId,Priority,PickupTimeSec,HospitalTimeSec,WeightedCost,Notes
+101,1,2,P1-CRITICAL,316.25,80,1585,"Dispatched via Dijkstra Greedy Optimization"
+103,2,3,P1-CRITICAL,120,270,1560,"Dispatched via Dijkstra Greedy Optimization"
+102,3,1,P2-URGENT,84,336,840,"Dispatched via Dijkstra Greedy Optimization"
+105,4,2,P2-URGENT,94.5,274.5,738,"Dispatched via Dijkstra Greedy Optimization"
+104,5,3,P3-DELAYED,324,300,624,"Dispatched via Dijkstra Greedy Optimization"

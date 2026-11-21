@@ -1,0 +1,202 @@
+{
+  "routes": [
+    {
+      "vehicle_id": 1,
+      "stops": [
+        {
+          "node": 0,
+          "name": "Central Depot (Union Square, San Francisco)",
+          "coord": [
+            37.7879363,
+            -122.4075174
+          ],
+          "arrival_min": 581,
+          "arrival_max": 581,
+          "arrival_time_str": "09:41",
+          "demand": 0,
+          "current_load": 0,
+          "time_window": [
+            480,
+            1080
+          ],
+          "time_window_str": "08:00-18:00"
+        },
+        {
+          "node": 1,
+          "name": "Customer 1 (Fisherman's Wharf)",
+          "coord": [
+            37.8081325,
+            -122.4165913
+          ],
+          "arrival_min": 617,
+          "arrival_max": 617,
+          "arrival_time_str": "10:17",
+          "demand": 4,
+          "current_load": 0,
+          "time_window": [
+            540,
+            660
+          ],
+          "time_window_str": "09:00-11:00"
+        },
+        {
+          "node": 2,
+          "name": "Customer 2 (Presidio of San Francisco)",
+          "coord": [
+            37.7987926,
+            -122.4645799
+          ],
+          "arrival_min": 668,
+          "arrival_max": 668,
+          "arrival_time_str": "11:08",
+          "demand": 3,
+          "current_load": 4,
+          "time_window": [
+            570,
+            720
+          ],
+          "time_window_str": "09:30-12:00"
+        },
+        {
+          "node": 5,
+          "name": "Customer 5 (Golden Gate Park Concourse)",
+          "coord": [
+            37.770517,
+            -122.4676434
+          ],
+          "arrival_min": 720,
+          "arrival_max": 720,
+          "arrival_time_str": "12:00",
+          "demand": 6,
+          "current_load": 7,
+          "time_window": [
+            720,
+            960
+          ],
+          "time_window_str": "12:00-16:00"
+        },
+        {
+          "node": 0,
+          "name": "Central Depot (Union Square, San Francisco)",
+          "coord": [
+            37.7879363,
+            -122.4075174
+          ],
+          "arrival_min": 746,
+          "arrival_max": 746,
+          "arrival_time_str": "12:26",
+          "demand": 0,
+          "current_load": 13,
+          "time_window": [
+            480,
+            1080
+          ],
+          "time_window_str": "08:00-18:00"
+        }
+      ],
+      "total_distance_meters": 24613,
+      "total_distance_km": 24.61,
+      "total_duration_minutes": 165
+    },
+    {
+      "vehicle_id": 2,
+      "stops": [
+        {
+          "node": 0,
+          "name": "Central Depot (Union Square, San Francisco)",
+          "coord": [
+            37.7879363,
+            -122.4075174
+          ],
+          "arrival_min": 691,
+          "arrival_max": 691,
+          "arrival_time_str": "11:31",
+          "demand": 0,
+          "current_load": 0,
+          "time_window": [
+            480,
+            1080
+          ],
+          "time_window_str": "08:00-18:00"
+        },
+        {
+          "node": 3,
+          "name": "Customer 3 (Mission District)",
+          "coord": [
+            37.7597203,
+            -122.4271323
+          ],
+          "arrival_min": 731,
+          "arrival_max": 731,
+          "arrival_time_str": "12:11",
+          "demand": 5,
+          "current_load": 0,
+          "time_window": [
+            600,
+            780
+          ],
+          "time_window_str": "10:00-13:00"
+        },
+        {
+          "node": 6,
+          "name": "Customer 6 (Twin Peaks Lookout)",
+          "coord": [
+            37.7524145,
+            -122.4475866
+          ],
+          "arrival_min": 780,
+          "arrival_max": 780,
+          "arrival_time_str": "13:00",
+          "demand": 3,
+          "current_load": 5,
+          "time_window": [
+            780,
+            1020
+          ],
+          "time_window_str": "13:00-17:00"
+        },
+        {
+          "node": 4,
+          "name": "Customer 4 (Oracle Park)",
+          "coord": [
+            37.7786059,
+            -122.3894716
+          ],
+          "arrival_min": 804,
+          "arrival_max": 804,
+          "arrival_time_str": "13:24",
+          "demand": 4,
+          "current_load": 8,
+          "time_window": [
+            660,
+            840
+          ],
+          "time_window_str": "11:00-14:00"
+        },
+        {
+          "node": 0,
+          "name": "Central Depot (Union Square, San Francisco)",
+          "coord": [
+            37.7879363,
+            -122.4075174
+          ],
+          "arrival_min": 818,
+          "arrival_max": 818,
+          "arrival_time_str": "13:38",
+          "demand": 0,
+          "current_load": 12,
+          "time_window": [
+            480,
+            1080
+          ],
+          "time_window_str": "08:00-18:00"
+        }
+      ],
+      "total_distance_meters": 26818,
+      "total_distance_km": 26.82,
+      "total_duration_minutes": 127
+    }
+  ],
+  "total_fleet_distance_km": 51.43,
+  "total_fleet_duration_minutes": 292
+}

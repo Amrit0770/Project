@@ -1,0 +1,34 @@
+{
+  "Union Square, San Francisco, CA, USA": {
+    "lat": 37.7879363,
+    "lon": -122.4075174
+  },
+  "Fisherman's Wharf, San Francisco, CA": {
+    "lat": 37.8081325,
+    "lon": -122.4165913
+  },
+  "Presidio of San Francisco, CA": {
+    "lat": 37.7987926,
+    "lon": -122.4645799
+  },
+  "Mission Dolores Park, San Francisco, CA": {
+    "lat": 37.7597203,
+    "lon": -122.4271323
+  },
+  "Oracle Park, San Francisco, CA": {
+    "lat": 37.7786059,
+    "lon": -122.3894716
+  },
+  "Music Concourse, San Francisco, CA": {
+    "lat": 37.770517,
+    "lon": -122.4676434
+  },
+  "Twin Peaks, San Francisco, CA": {
+    "lat": 37.7524145,
+    "lon": -122.4475866
+  },
+  "Union Square, San Francisco, CA": {
+    "lat": 37.7879363,
+    "lon": -122.4075174
+  }
+}

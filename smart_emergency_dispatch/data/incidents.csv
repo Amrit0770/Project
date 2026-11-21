@@ -1,0 +1,6 @@
+id,node_id,priority,requires_als,requires_icu,timestamp,description
+101,3,1,1,1,0.0,"Severe Acute Myocardial Infarction"
+102,7,2,0,0,45.0,"Multiple Extremity Fractures"
+103,1,1,1,1,60.0,"Traumatic Brain Injury"
+104,5,3,0,0,90.0,"Deep Laceration Controlled"
+105,6,2,0,0,120.0,"Fall from Height with Dislocation"

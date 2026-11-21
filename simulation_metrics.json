@@ -1,0 +1,8 @@
+{
+  "simulation_time_sec": 0,
+  "objective_function_Z": 5347,
+  "fleet_size": 6,
+  "hospitals_count": 3,
+  "total_incidents": 5,
+  "dispatched_records_count": 5
+}
